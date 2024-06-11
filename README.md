@@ -3,7 +3,7 @@ Project Overview
 The Coffee Sales Dashboard project is designed to provide a comprehensive and interactive tool for analyzing coffee sales data. The dashboard aggregates and visualizes data from various sources, allowing stakeholders to gain insights into sales performance, customer behavior, and product trends. This report will detail the contents and purpose of each sheet within the Excel file, the methodologies used for data aggregation, and the potential uses of the dashboard.
 
 Contents of the Excel File
-Totalsales
+#Totalsales
 
 Description: This sheet aggregates sales data by coffee type and time period.
 Columns:
@@ -17,7 +17,7 @@ Sales Figures: Sales amounts for each coffee type, recorded monthly and yearly.
 
 Purpose: To provide a high-level view of sales trends over time, segmented by coffee type.
 
-Country bar chart
+#Country bar chart
 Description: This sheet lists sales data by country.
 Columns:
 Country: Names of countries where sales occurred.
