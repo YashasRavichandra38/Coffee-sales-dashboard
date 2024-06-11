@@ -3,7 +3,7 @@ Project Overview
 The Coffee Sales Dashboard project is designed to provide a comprehensive and interactive tool for analyzing coffee sales data. The dashboard aggregates and visualizes data from various sources, allowing stakeholders to gain insights into sales performance, customer behavior, and product trends. This report will detail the contents and purpose of each sheet within the Excel file, the methodologies used for data aggregation, and the potential uses of the dashboard.
 
 Contents of the Excel File
-#Totalsales
+## Totalsales
 
 Description: This sheet aggregates sales data by coffee type and time period.
 Columns:
@@ -17,7 +17,7 @@ Sales Figures: Sales amounts for each coffee type, recorded monthly and yearly.
 
 Purpose: To provide a high-level view of sales trends over time, segmented by coffee type.
 
-#Country bar chart
+## Country bar chart
 Description: This sheet lists sales data by country.
 Columns:
 Country: Names of countries where sales occurred.
@@ -26,14 +26,14 @@ Sum of Sales: Total sales amount for each country.
 
 Purpose: To identify and compare the sales performance across different countries.
 
-Dashboard
+## Dashboard
 Description: This sheet is intended to serve as the main dashboard, consolidating key metrics and visualizations.
 
 Current State: The sheet is currently empty.
 
 Purpose: To provide a user-friendly interface that displays the most critical data insights and visualizations from other sheets.
 
-top 5 customers
+## top 5 customers
 Description: This sheet lists the top five customers based on their total sales contributions.
 Columns:
 Customer Name: Names of the top customers.
@@ -42,7 +42,7 @@ Sum of Sales: Total sales amount attributed to each customer.
 
 Purpose: To highlight the most valuable customers and recognize patterns in high-value customer behavior.
 
-orders
+## orders
 Description: This sheet contains detailed information about each order.
 Columns:
 Order ID: Unique identifier for each order.
@@ -71,7 +71,7 @@ Loyalty Card: Indicator of whether the customer has a loyalty card.
 
 Purpose: To provide detailed transactional data for in-depth analysis of sales patterns and customer preferences.
 
-customers
+## customers
 Description: This sheet lists customer details.
 Columns:
 Customer ID: Unique identifier for each customer.
@@ -94,7 +94,7 @@ Loyalty Card: Indicator of whether the customer has a loyalty card.
 
 Purpose: To maintain a record of customer information for CRM (Customer Relationship Management) and targeted marketing.
 
-products
+## products
 Description: This sheet contains information about the products offered.
 Columns:
 
@@ -114,7 +114,7 @@ Profit: Profit margin for the product.
 
 Purpose: To provide detailed information about the products for inventory management and profitability analysis.
 
-Methodologies
+## Methodologies
 Data Aggregation: The data is aggregated in the Totalsales and Country bar chart sheets to provide summarized views of sales data by different dimensions such as time and geography.
 
 Customer Segmentation: The top 5 customers sheet segments customers based on their purchase amounts, helping to identify and focus on high-value customers.
@@ -132,7 +132,7 @@ Customer Insights: Analyzing top customers and detailed customer information can
 Product Analysis: Detailed product information allows for the analysis of product profitability and inventory management.
 
 
-Conclusion
+## Conclusion
 The Coffee Sales Dashboard project provides a robust tool for analyzing various aspects of coffee sales data. By consolidating data into a single dashboard, stakeholders can easily access key metrics and insights, enabling informed decision-making and strategic planning. The project can be further enhanced by populating the Dashboard sheet with visualizations and key performance indicators (KPIs) derived from the detailed data available in other sheets.
 
 
